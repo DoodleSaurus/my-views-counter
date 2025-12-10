@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:48 AM UTC
+			2025/12/8 12:00 AM UTC
 		</td>
 		<td>
-			28
+			29
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/DoodleSaurus/my-views-counter/raw/master/graph/1098322675/small/year.png" height="20"> 69
+			<img alt="Response time graph" src="https://github.com/DoodleSaurus/my-views-counter/raw/master/graph/1098322675/small/year.png" height="20"> 70
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:48 AM UTC
+			2025/12/8 1:41 AM UTC
 		</td>
 		<td>
 			5
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:48 AM UTC
+			2025/12/8 1:41 AM UTC
 		</td>
 		<td>
 			16
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:48 AM UTC
+			2025/12/8 1:41 AM UTC
 		</td>
 		<td>
 			11
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 12:00 AM UTC
+			2025/12/8 1:42 AM UTC
 		</td>
 		<td>
 			22
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:49 AM UTC
+			2025/12/8 1:42 AM UTC
 		</td>
 		<td>
 			7
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:49 AM UTC
+			2025/12/8 1:42 AM UTC
 		</td>
 		<td>
 			6
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:49 AM UTC
+			2025/12/8 1:42 AM UTC
 		</td>
 		<td>
 			4
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/7 1:49 AM UTC
+			2025/12/8 1:42 AM UTC
 		</td>
 		<td>
 			7
@@ -163,9 +163,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/DoodleSaurus/my-views-counter/raw/master/graph/1108266021/small/year.png" height="20"> 79
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/DoodleSaurus/my-views-counter/tree/master/readme/1112987130/year.md">
+				The-Blind-Spot
+			</a>
+		</td>
+		<td>
+			2025/12/7 1:44 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/DoodleSaurus/my-views-counter/raw/master/graph/1112987130/small/year.png" height="20"> 47
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/9 6:29 PM UTC</i></small>
+<small><i>Last updated on 2025/12/10 1:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

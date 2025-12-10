@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/DoodleSaurus/my-views-counter)
 
-### :octocat: [portfolio](https://github.com/DoodleSaurus/portfolio)
-![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/743860746/large/year.png)
+### :octocat: [The-Blind-Spot](https://github.com/DoodleSaurus/The-Blind-Spot)
+![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1112987130/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/12/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>47</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/12/10 1:43 AM UTC</i></small>
+<small><i>Last updated on 2025/12/10 1:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/743860746/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/743860746/week.md)
+[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/1112987130/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1112987130/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/743860746/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/743860746/week.md)
+[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/1112987130/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1112987130/week.md)
 ```
 ### Header
-# portfolio [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/743860746/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/743860746/year.md)
+# The-Blind-Spot [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1112987130/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1112987130/year.md)
 ```readme
-# portfolio [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/743860746/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/743860746/year.md)
+# The-Blind-Spot [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1112987130/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1112987130/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
