@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/DoodleSaurus/my-views-counter)
 
-### :octocat: [DoodleSaurus](https://github.com/DoodleSaurus/DoodleSaurus)
-![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1068529465/large/year.png)
+### :octocat: [YT-Downloader](https://github.com/DoodleSaurus/YT-Downloader)
+![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1205303630/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -45,10 +45,10 @@
 			<code>2026/2/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2026/1/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2025/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/4/9 7:07 PM UTC</i></small>
+<small><i>Last updated on 2026/4/9 7:08 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/1068529465/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1068529465/week.md)
+[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/1205303630/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1205303630/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/1068529465/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1068529465/week.md)
+[![Image of my-views-counter](https://github.com/DoodleSaurus/my-views-counter/blob/master/svg/1205303630/badge.svg)](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1205303630/week.md)
 ```
 ### Header
-# DoodleSaurus [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1068529465/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1068529465/year.md)
+# YT-Downloader [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1205303630/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1205303630/year.md)
 ```readme
-# DoodleSaurus [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1068529465/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1068529465/year.md)
+# YT-Downloader [<img alt="Image of my-views-counter" src="https://github.com/DoodleSaurus/my-views-counter/blob/master/graph/1205303630/small/year.png" height="20">](https://github.com/DoodleSaurus/my-views-counter/blob/master/readme/1205303630/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
